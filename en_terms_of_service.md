@@ -1,37 +1,56 @@
 # Terms of Service
 
-**Article 1 (Purpose)**
-These Terms of Service ("Terms") govern the access and use of the "Melody Sketch" mobile application ("Service") provided by **TAEHAERIN** ("Company").
+Article 1 (Purpose)
+The purpose of these Terms of Service is to define the rights, obligations, and responsibilities between TAEHAERIN (hereinafter referred to as the 'Company') and the user regarding the use of 'Melody Sketch' (hereinafter referred to as the 'Service').
 
-**Article 2 (Effect and Modification of Terms)**
-1. These Terms become effective when you download, install, or use the Service. By using the Service, you agree to be bound by these Terms.
-2. The Company reserves the right to amend these Terms in compliance with relevant laws. Any changes will be posted within the application or on this webpage.
+Article 2 (Effect and Modification of Terms)
 
-**Article 3 (Provision and Modification of Service)**
-1. The Service allows users to sketch melodies and export them as MIDI files using local device storage.
-2. The Company may update features or fix bugs to enhance service quality, during which certain features may be altered or discontinued.
+These terms are effective for all users who wish to use the Service. By downloading and using the app, you are deemed to have agreed to these terms.
 
-**Article 4 (In-App Subscriptions and Refunds)**
-1. Certain premium features ("Pro") are available via auto-renewing monthly or annual subscriptions.
-2. Payment will be charged to your Google Play account upon confirmation of purchase. Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current billing cycle.
-3. You can manage and cancel your subscriptions at any time via your Google Play account settings.
-4. Refunds are processed according to the refund policies of Google Play. Refund requests must be submitted directly through Google Play.
+The Company may revise these terms within the scope of not violating relevant laws, and the revised terms shall take effect by posting them within the app or on this webpage.
 
-**Article 5 (Data Storage and Loss of Responsibility)**
-1. All project and melody data created within the Service is stored exclusively in your device's local storage.
-2. The Company is not liable for data loss caused by device replacement, damage, uninstallation, or OS updates, and cannot restore local data.
-3. Users are solely responsible for backing up important data using the export/share features.
+Article 3 (Provision and Modification of Service)
 
-**Article 6 (Intellectual Property)**
-1. All intellectual property rights and copyrights for melodies and MIDI files created by the user belong entirely to the user.
-2. The Company retains all rights, titles, and interests in and to the application itself, including UI/UX design, assets, and source code.
+The Service provides features to sketch melodies and export them as MIDI files using the smartphone's internal storage.
 
-**Article 7 (Disclaimer of Warranties and Limitation of Liability)**
-1. The Company shall not be liable for service disruptions or data loss caused by force majeure events, device malfunctions, or platform errors.
-2. The Company is not responsible for any legal disputes arising from the commercial use of output files generated through the Service.
+The Company may proceed with feature updates and bug fixes to provide better service, and during this process, some of the existing features may be changed or terminated.
 
-**Article 8 (Governing Law and Jurisdiction)**
-These Terms shall be governed by and construed in accordance with the laws of the Republic of Korea. Any disputes arising from or in connection with these Terms shall be resolved in the competent courts of the Republic of Korea.
+Article 4 (In-App Subscriptions and Refunds)
 
-**Addendum**
-These Terms shall take effect on August 23, 2026.
+Certain premium features (Pro) within the Service are provided through monthly or annual subscriptions (in-app purchases).
+
+All payments are processed through the Google Play billing system, and subscriptions automatically renew at the same rate and billing cycle unless canceled at least 24 hours before the end of the current subscription period.
+
+Users can cancel the automatic renewal at any time in the [Payments & subscriptions] menu of the Google Play Store. Even after cancellation, you can continue to use the Pro features for the remaining billing cycle.
+
+Refunds comply with Google Play's refund policy, and requests for payment cancellation and refunds must be processed through the Google Play Store.
+
+Article 5 (Data Retention and Loss Liability)
+
+All melodies and project data generated in the Service are stored only in the user's device's internal local storage.
+
+The Company assumes no responsibility for data loss caused by device loss, damage, app uninstallation, or OS update errors, and does not provide restoration through a separate cloud backup.
+
+Users must back up important data to a separate safe location using the share and export features.
+
+Article 6 (Intellectual Property Rights)
+
+The copyright and intellectual property rights for the melodies and sound files (such as MIDI) created by the user using the Service belong entirely to the user.
+
+The copyright for the app's UI/UX, design, source code, etc., provided by the Company belongs to the Company.
+
+The user is entirely responsible for securing the copyright and legitimate usage rights for all data, including MIDI files imported into the Service from outside. All legal responsibilities arising from uploading files that infringe on the copyrights of others lie entirely with the user.
+
+Article 7 (Disclaimer)
+
+The Company is not responsible for service failures and data loss caused by force majeure such as natural disasters, device defects, or store platform failures.
+
+The Company does not intervene in legal disputes with third parties resulting from the commercial use of the results generated by the user through the Service.
+
+The Company does not intervene in and assumes no responsibility for legal disputes (e.g., copyright infringement) with third parties arising from the use of results generated through the Service or imported from outside (including uploaded files).
+
+Article 8 (Jurisdiction and Governing Law)
+Disputes related to these terms shall be governed by the laws of the Republic of Korea, and the competent court shall be the competent court under the Civil Procedure Act.
+
+Addendum
+These terms will be effective from September 14, 2026.
