@@ -1,56 +1,64 @@
-# Terms of Service
+Terms of Service
 
 Article 1 (Purpose)
-The purpose of these Terms of Service is to define the rights, obligations, and responsibilities between TAEHAERIN (hereinafter referred to as the 'Company') and the user regarding the use of 'Melody Sketch' (hereinafter referred to as the 'Service').
+The purpose of these Terms of Service is to stipulate the rights, obligations, and responsibilities between TAEHAERIN (hereinafter "the Company") and the user regarding the use of "Melody Sketch" (hereinafter "the Service").
 
 Article 2 (Effect and Modification of Terms)
 
-These terms are effective for all users who wish to use the Service. By downloading and using the app, you are deemed to have agreed to these terms.
+These Terms apply to all users who wish to use the Service. By downloading and using the app, you are deemed to have agreed to these Terms.
 
-The Company may revise these terms within the scope of not violating relevant laws, and the revised terms shall take effect by posting them within the app or on this webpage.
+The Company may amend these Terms to the extent that it does not violate relevant laws. The amended Terms shall take effect by being posted via in-app notices or on this webpage.
 
 Article 3 (Provision and Modification of Service)
 
-The Service provides features to sketch melodies and export them as MIDI files using the smartphone's internal storage.
+The Service provides features to sketch melodies and export them as MIDI files using the smartphone's internal local storage.
 
-The Company may proceed with feature updates and bug fixes to provide better service, and during this process, some of the existing features may be changed or terminated.
+[New] The Service provides a "Humming Capture" feature that recognizes the user's voice and converts it into a melody, which requires microphone access. Voice data is processed locally on the device solely for real-time analysis and is neither transmitted to nor stored on external servers.
 
-Article 4 (In-App Subscriptions and Refunds)
+The Company may perform feature updates, bug fixes, etc., to provide a better service. During this process, some existing features may be modified or terminated.
 
-Certain premium features (Pro) within the Service are provided through monthly or annual subscriptions (in-app purchases).
+Article 4 (In-App Subscription Billing and Refunds)
 
-All payments are processed through the Google Play billing system, and subscriptions automatically renew at the same rate and billing cycle unless canceled at least 24 hours before the end of the current subscription period.
+Certain premium features (Pro) within the Service are provided through monthly or annual auto-renewing subscriptions (in-app purchases).
 
-Users can cancel the automatic renewal at any time in the [Payments & subscriptions] menu of the Google Play Store. Even after cancellation, you can continue to use the Pro features for the remaining billing cycle.
+All payments are processed through the Google Play billing system and will automatically renew at the same rate and billing cycle unless canceled at least 24 hours before the end of the current subscription period.
 
-Refunds comply with Google Play's refund policy, and requests for payment cancellation and refunds must be processed through the Google Play Store.
+Users can cancel the auto-renewal at any time in the [Payments & subscriptions] menu of the Google Play Store. Even after cancellation, users can continue to use the Pro features for the remainder of the already paid billing cycle.
 
-Article 5 (Data Retention and Loss Liability)
+Refunds adhere to the Google Play refund policy, and requests for payment cancellation and refunds must be made through the Google Play Store.
 
-All melodies and project data generated in the Service are stored only in the user's device's internal local storage.
+Article 5 (Data Storage and Liability for Loss)
 
-The Company assumes no responsibility for data loss caused by device loss, damage, app uninstallation, or OS update errors, and does not provide restoration through a separate cloud backup.
+All melody and project data generated in the Service are stored only in the user's local device storage.
 
-Users must back up important data to a separate safe location using the share and export features.
+The Company assumes no responsibility for data loss caused by device loss, damage, app uninstallation, or OS update errors, and does not provide restoration via separate cloud backups.
+
+Users must directly back up important data to a separate safe location using the share and export features.
 
 Article 6 (Intellectual Property Rights)
 
-The copyright and intellectual property rights for the melodies and sound files (such as MIDI) created by the user using the Service belong entirely to the user.
+Copyrights and intellectual property rights for melodies and sound files (e.g., MIDI) created by the user using the Service belong entirely to the user.
 
-The copyright for the app's UI/UX, design, source code, etc., provided by the Company belongs to the Company.
+The copyrights for the UI/UX, design, and source code of the app provided by the Company belong to the Company.
 
-The user is entirely responsible for securing the copyright and legitimate usage rights for all data, including MIDI files imported into the Service from outside. All legal responsibilities arising from uploading files that infringe on the copyrights of others lie entirely with the user.
+The user holds the sole responsibility for securing copyrights and lawful usage rights for all data, such as MIDI files imported into the Service from external sources. All legal liabilities arising from uploading files that infringe on the copyrights of others lie entirely with the user.
 
 Article 7 (Disclaimer)
 
-The Company is not responsible for service failures and data loss caused by force majeure such as natural disasters, device defects, or store platform failures.
+The Company shall not be held liable for service disruptions or data loss due to force majeure, such as natural disasters, device defects, or store platform failures.
 
-The Company does not intervene in legal disputes with third parties resulting from the commercial use of the results generated by the user through the Service.
+The Company shall not intervene in legal disputes with third parties resulting from the commercial use of the outputs generated by the user through the Service.
 
-The Company does not intervene in and assumes no responsibility for legal disputes (e.g., copyright infringement) with third parties arising from the use of results generated through the Service or imported from outside (including uploaded files).
+The Company shall not intervene in, nor hold any liability for, legal disputes with third parties (e.g., copyright infringement) resulting from the use of outputs generated or imported (including uploaded files) by the user through the Service.
 
-Article 8 (Jurisdiction and Governing Law)
-Disputes related to these terms shall be governed by the laws of the Republic of Korea, and the competent court shall be the competent court under the Civil Procedure Act.
+Article 8 (Privacy Protection and Statistical Data Collection) [New]
+
+The Company strives to protect users' personal information in accordance with relevant laws. Specific details regarding privacy protection are governed by the "Privacy Policy".
+
+To improve app quality and fix errors, the Company may collect de-identified app usage statistics and crash (error) information using third-party analytics tools (such as Firebase Analytics).
+
+Article 9 (Governing Law and Jurisdiction)
+Disputes related to these Terms shall be governed by the laws of the Republic of Korea, and the competent court shall be the court of jurisdiction under the Civil Procedure Act.
 
 Addendum
-These terms will be effective from September 14, 2026.
+These Terms shall be amended and take effect on October 30, 2026.
