@@ -1,27 +1,49 @@
-# Privacy Policy
+Privacy Policy
 
-**TAEHAERIN** ("Company") is committed to protecting your privacy. This Privacy Policy explains how data is handled when you use the "Melody Sketch" mobile application ("App").
+TAEHAERIN (hereinafter "the Company") complies with applicable privacy laws and regulations to protect users' personal information and rights. This policy explains the information processed and management standards when using the "Melody Sketch" app (hereinafter "the App").
 
-**Article 1 (Information Handled and Purpose)**
-1. The core features of the App operate locally (via SQLite) on your device. The Company does not directly collect, store, or transmit personally identifiable information (such as your name, contact details, or location) to external servers.
-2. To validate in-app purchases and manage Pro subscriptions, certain pseudonymous technical identifiers are processed through third-party services:
-   - **Processed Data**: Anonymous App User ID (RevenueCat), Purchase Tokens/Receipts, Device OS information, and transaction history.
+Article 1 (Purpose of Processing and Collected Items)
 
-**Article 2 (Third-Party Services and Data Processing)**
-The Company does not sell or share user data for advertising purposes. We utilize standard third-party service providers solely to verify purchases and maintain subscription entitlements:
-- **Google LLC**: Google Play In-App Billing processing.
-- **RevenueCat, Inc.**: Subscription receipt validation and entitlement management.
+The App's core creation features (sheet music and project data) operate on an offline local storage (SQLite) basis. The Company does not directly collect or store sensitive, identifiable personal information (name, contact info, etc.) on its servers.
 
-**Article 3 (Data Retention and Deletion)**
-1. Project data created in the App is stored locally on your device and is permanently deleted when the App is uninstalled.
-2. Purchase verification data processed by Google Play and RevenueCat is retained in accordance with applicable legal requirements and platform policies.
+Microphone and Voice Data: When using the "Humming Capture" feature, the App requests microphone access. The voice data input through the microphone is processed entirely on-device strictly for real-time pitch analysis. It is never transmitted to or stored on any external servers in any audio file format.
 
-**Article 4 (User Rights)**
-Users can stop data processing at any time by uninstalling the App or cancelling subscriptions directly through Google Play account settings.
+To verify in-app subscription (Pro) statuses and improve service quality, the following de-identified technical information may be automatically collected and processed via third-party solutions:
 
-**Article 5 (Contact Information)**
-- **Company Name:** TAEHAERIN
-- **Contact:** taehaerin.dev@gmail.com
+Collected items: Anonymized App User ID (RevenueCat), purchase receipt tokens, device OS information, in-app purchase history, and anonymized app usage and crash logs (Firebase Analytics).
 
-**Addendum**
-This Privacy Policy is effective as of August 23, 2026.
+Article 2 (Third-Party Provision and Delegation)
+The Company does not provide collected information to third parties for marketing or other unrelated purposes. However, processing is delegated to the following services to maintain core functions and analyze performance:
+
+Google LLC: Google Play in-app payment approval and processing.
+
+Google LLC (Firebase Analytics): Service usage statistical analysis and bug tracking.
+
+RevenueCat, Inc.: Subscription receipt validation and entitlement management.
+
+Article 3 (Data Retention and Destruction)
+
+Voice data analyzed in real-time via the microphone is permanently destroyed from the device's memory immediately after conversion.
+
+Melody and project data generated within the App are stored only locally on the user's device and are permanently destroyed upon app uninstallation.
+
+De-identified data used for payment validation and analytics are safely stored and subsequently destroyed in accordance with applicable laws and platform policies.
+
+Article 4 (User Rights and Exercise Methods)
+
+Users may revoke microphone access permissions at any time through their device settings.
+
+Users can stop data processing at any time by canceling subscriptions via Google Play account settings or by uninstalling the App.
+
+Users can manually delete or clear local data directly within the App.
+
+Article 5 (Privacy Officer and Contact Information)
+
+Company Name: TAEHAERIN
+
+Representative: Taeho Park
+
+Email: taehaerin.dev@gmail.com
+
+Addendum
+This policy is effective as of October 26, 2026.
